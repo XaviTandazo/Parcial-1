@@ -1,0 +1,501 @@
+user_id,first_name,last_name,age,city,reg_date,plan,churn_date,total_calls,total_call_duration,total_internet_sessions,total_mb_used,total_messages,messages_included,mb_per_month_included,minutes_included,usd_monthly_pay,usd_per_gb,usd_per_message,usd_per_minute,plan_name
+1000,Anamaria,Bauer,45,"Atlanta-Sandy Springs-Roswell, GA MSA",2018-12-24,ultimate,Activo,15.0,110.98,5.0,1901.47,11.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1001,Mickey,Wilkerson,28,"Seattle-Tacoma-Bellevue, WA MSA",2018-08-13,surf,Activo,4.0,13.46,4.0,1724.33,4.0,50,15360,500,20,10,0.03,0.03,surf
+1002,Carlee,Hoffman,36,"Las Vegas-Henderson-Paradise, NV MSA",2018-10-21,surf,Activo,7.0,22.31,7.0,1646.1100000000001,5.0,50,15360,500,20,10,0.03,0.03,surf
+1003,Reynaldo,Jenkins,52,"Tulsa, OK MSA",2018-01-28,surf,Activo,15.0,84.56,15.0,6135.25,15.0,50,15360,500,20,10,0.03,0.03,surf
+1004,Leonila,Thompson,40,"Seattle-Tacoma-Bellevue, WA MSA",2018-05-23,surf,Activo,1.0,11.08,2.0,497.08000000000004,3.0,50,15360,500,20,10,0.03,0.03,surf
+1005,Livia,Shields,31,"Dallas-Fort Worth-Arlington, TX MSA",2018-11-29,surf,Activo,15.0,116.4,15.0,4827.65,11.0,50,15360,500,20,10,0.03,0.03,surf
+1006,Jesusa,Bradford,73,"San Francisco-Oakland-Berkeley, CA MSA",2018-11-27,ultimate,2018-12-18,9.0,54.79,15.0,6133.593701025518,15.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1007,Eusebio,Welch,42,"Grand Rapids-Kentwood, MI MSA",2018-07-11,surf,Activo,4.0,37.83,5.0,2494.37,4.0,50,15360,500,20,10,0.03,0.03,surf
+1008,Emely,Hoffman,53,"Orlando-Kissimmee-Sanford, FL MSA",2018-08-03,ultimate,Activo,6.0,52.480000000000004,4.0,1244.37,4.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1009,Gerry,Little,19,"San Jose-Sunnyvale-Santa Clara, CA MSA",2018-04-22,surf,Activo,4.0,23.86,2.0,769.9100000000001,0.0,50,15360,500,20,10,0.03,0.03,surf
+1010,Wilber,Blair,52,"Dallas-Fort Worth-Arlington, TX MSA",2018-03-09,surf,Activo,0.0,0.0,0.0,0.0,0.0,50,15360,500,20,10,0.03,0.03,surf
+1011,Halina,Henry,73,"Cleveland-Elyria, OH MSA",2018-01-18,ultimate,Activo,3.0,14.149999999999999,1.0,0.0,3.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1012,Jonelle,Mcbride,59,"Chicago-Naperville-Elgin, IL-IN-WI MSA",2018-06-28,surf,2018-11-16,11.0,42.81,9.0,3183.3199999999997,0.0,50,15360,500,20,10,0.03,0.03,surf
+1013,Nicolas,Snider,50,"Knoxville, TN MSA",2018-12-01,ultimate,Activo,15.0,104.16,15.0,4259.93,15.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1014,Edmundo,Simon,61,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-11-25,surf,Activo,13.0,98.81,15.0,6360.39,12.0,50,15360,500,20,10,0.03,0.03,surf
+1015,Beata,Carpenter,26,"Pittsburgh, PA MSA",2018-12-05,surf,Activo,15.0,87.73,15.0,5023.19,15.0,50,15360,500,20,10,0.03,0.03,surf
+1016,Jann,Salinas,30,"Fresno, CA MSA",2018-10-25,surf,Activo,11.0,69.26,5.0,1225.08,6.0,50,15360,500,20,10,0.03,0.03,surf
+1017,Boris,Gates,61,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",2018-08-26,surf,Activo,5.0,53.45,2.0,420.56,4.0,50,15360,500,20,10,0.03,0.03,surf
+1018,Dennis,Grimes,70,"Indianapolis-Carmel-Anderson, IN MSA",2018-10-17,surf,Activo,5.0,28.060000000000002,6.0,1350.6,7.0,50,15360,500,20,10,0.03,0.03,surf
+1019,Shizue,Landry,34,"Jacksonville, FL MSA",2018-01-16,surf,Activo,13.0,118.8,11.0,4197.15,14.0,50,15360,500,20,10,0.03,0.03,surf
+1020,Rutha,Bell,56,"Dallas-Fort Worth-Arlington, TX MSA",2018-11-08,surf,Activo,10.0,79.76,5.0,1069.57,3.0,50,15360,500,20,10,0.03,0.03,surf
+1021,Ricarda,Booker,37,"Los Angeles-Long Beach-Anaheim, CA MSA",2018-12-21,surf,Activo,15.0,93.94,15.0,5085.563701025519,0.0,50,15360,500,20,10,0.03,0.03,surf
+1022,Bo,Snow,73,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-04-20,surf,2018-09-07,2.0,19.52,2.0,209.81,0.0,50,15360,500,20,10,0.03,0.03,surf
+1023,Jack,Delaney,70,"Omaha-Council Bluffs, NE-IA MSA",2018-07-06,surf,Activo,0.0,0.0,0.0,0.0,0.0,50,15360,500,20,10,0.03,0.03,surf
+1024,Yuki,Tyson,74,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-08-21,surf,Activo,15.0,69.86592703379678,15.0,5802.35,0.0,50,15360,500,20,10,0.03,0.03,surf
+1025,Jess,Wilkinson,64,"Atlanta-Sandy Springs-Roswell, GA MSA",2018-10-28,ultimate,Activo,0.0,0.0,0.0,0.0,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1026,Meggan,Hamilton,49,"Houston-The Woodlands-Sugar Land, TX MSA",2018-07-20,ultimate,Activo,0.0,0.0,0.0,0.0,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1027,Georgeanna,Cardenas,38,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-06-26,surf,Activo,3.0,8.92,3.0,971.58,1.0,50,15360,500,20,10,0.03,0.03,surf
+1028,Jefferey,Rasmussen,57,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2018-02-21,ultimate,Activo,2.0,15.5,0.0,0.0,2.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1029,Franklyn,Henson,59,"Tampa-St. Petersburg-Clearwater, FL MSA",2018-01-05,surf,Activo,2.0,12.32,4.0,1882.76,4.0,50,15360,500,20,10,0.03,0.03,surf
+1030,Chase,Kane,30,"Chicago-Naperville-Elgin, IL-IN-WI MSA",2018-02-14,ultimate,Activo,8.0,64.60000000000001,2.0,429.16,4.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1031,Lane,Martin,52,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-07-15,ultimate,Activo,3.0,19.81,0.0,0.0,5.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1032,Delila,Dalton,59,"Birmingham-Hoover, AL MSA",2018-06-07,ultimate,Activo,10.0,61.82,10.0,3290.0499999999997,10.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1033,Latoyia,Moran,28,"Oklahoma City, OK MSA",2018-05-30,ultimate,Activo,4.0,15.0,4.0,804.9100000000001,2.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1034,Jc,Gentry,22,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-08-13,surf,Activo,0.0,0.0,0.0,0.0,0.0,50,15360,500,20,10,0.03,0.03,surf
+1035,Jeff,Cummings,67,"Charlotte-Concord-Gastonia, NC-SC MSA",2018-12-08,surf,Activo,15.0,134.42000000000002,15.0,4286.6900000000005,15.0,50,15360,500,20,10,0.03,0.03,surf
+1036,Myron,Hodge,70,"Denver-Aurora-Lakewood, CO MSA",2018-05-09,ultimate,Activo,1.0,6.04,1.0,0.0,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1037,Reena,Velazquez,20,"Seattle-Tacoma-Bellevue, WA MSA",2018-08-11,ultimate,Activo,15.0,98.62,15.0,5202.55,15.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1038,Olympia,Velazquez,32,"Nashville-Davidson–Murfreesboro–Franklin, TN MSA",2018-06-25,ultimate,Activo,8.0,68.6,7.0,3185.83,6.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1039,Flo,Hicks,56,"Columbus, OH MSA",2018-05-30,ultimate,Activo,3.0,28.78,1.0,158.78,2.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1040,Paris,Santos,72,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2018-12-23,surf,2018-12-30,15.0,77.22,15.0,6173.603701025519,0.0,50,15360,500,20,10,0.03,0.03,surf
+1041,Drucilla,Lynn,58,"Las Vegas-Henderson-Paradise, NV MSA",2018-03-17,ultimate,Activo,0.0,0.0,3.0,1403.62,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1042,Clementina,Mclaughlin,40,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2018-01-15,surf,Activo,1.0,0.0,0.0,0.0,0.0,50,15360,500,20,10,0.03,0.03,surf
+1043,Carlos,Hinton,42,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-06-20,ultimate,Activo,1.0,0.0,3.0,1133.6737010255188,4.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1044,Devora,Galloway,74,"Albuquerque, NM MSA",2018-08-30,surf,Activo,3.0,17.79,1.0,410.04,2.0,50,15360,500,20,10,0.03,0.03,surf
+1045,Barney,Ortega,20,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-10-15,surf,Activo,9.0,30.9,3.0,1383.83,4.0,50,15360,500,20,10,0.03,0.03,surf
+1046,Beata,Hooper,67,"Boston-Cambridge-Newton, MA-NH MSA",2018-02-19,surf,Activo,1.0,5.48,0.0,0.0,1.0,50,15360,500,20,10,0.03,0.03,surf
+1047,Yuk,French,22,"Indianapolis-Carmel-Anderson, IN MSA",2018-06-16,ultimate,Activo,15.0,99.02,15.0,5805.45,7.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1048,Linwood,Terrell,42,"Miami-Fort Lauderdale-West Palm Beach, FL MSA",2018-08-24,surf,Activo,2.0,4.66,6.0,1202.65,0.0,50,15360,500,20,10,0.03,0.03,surf
+1049,Loise,Avery,25,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-02-21,surf,Activo,1.0,22.26,3.0,956.9399999999999,0.0,50,15360,500,20,10,0.03,0.03,surf
+1050,Jone,Owen,23,"Miami-Fort Lauderdale-West Palm Beach, FL MSA",2018-03-20,ultimate,2018-10-07,0.0,0.0,2.0,321.51,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1051,Rosario,Gibbs,55,"San Diego-Chula Vista-Carlsbad, CA MSA",2018-12-11,surf,Activo,15.0,69.94,15.0,4765.54,15.0,50,15360,500,20,10,0.03,0.03,surf
+1052,Edmond,Hopkins,47,"Houston-The Woodlands-Sugar Land, TX MSA",2018-03-05,surf,Activo,13.0,56.86,13.0,6184.64,13.0,50,15360,500,20,10,0.03,0.03,surf
+1053,Piper,Espinoza,27,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-07-30,surf,Activo,1.0,11.26,0.0,0.0,5.0,50,15360,500,20,10,0.03,0.03,surf
+1054,Denis,Frost,50,"Phoenix-Mesa-Chandler, AZ MSA",2018-04-21,surf,2018-12-31,1.0,2.21,0.0,0.0,1.0,50,15360,500,20,10,0.03,0.03,surf
+1055,Patrick,Mclean,52,"Portland-Vancouver-Hillsboro, OR-WA MSA",2018-01-13,surf,Activo,4.0,22.95,1.0,543.6,1.0,50,15360,500,20,10,0.03,0.03,surf
+1056,Denis,Chandler,33,"Cincinnati, OH-KY-IN MSA",2018-03-01,surf,Activo,2.0,19.19,2.0,254.60000000000002,3.0,50,15360,500,20,10,0.03,0.03,surf
+1057,Theo,Sargent,18,"Atlanta-Sandy Springs-Roswell, GA MSA",2018-08-07,ultimate,Activo,5.0,35.95,4.0,2551.16,5.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1058,Reinaldo,Colon,59,"Los Angeles-Long Beach-Anaheim, CA MSA",2018-11-06,surf,Activo,8.0,71.27,11.0,2705.27,5.0,50,15360,500,20,10,0.03,0.03,surf
+1059,Avril,Richardson,34,"Chicago-Naperville-Elgin, IL-IN-WI MSA",2018-04-22,ultimate,Activo,1.0,0.0,1.0,360.31,3.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1060,Denisse,Santos,53,"Atlanta-Sandy Springs-Roswell, GA MSA",2018-04-07,surf,Activo,6.0,51.160000000000004,3.0,764.98,3.0,50,15360,500,20,10,0.03,0.03,surf
+1061,Maryam,Valencia,38,"Columbia, SC MSA",2018-03-08,ultimate,Activo,1.0,4.19,2.0,1135.4299999999998,3.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1062,Kristeen,Head,41,"San Antonio-New Braunfels, TX MSA",2018-02-06,ultimate,Activo,2.0,24.13,2.0,276.91,1.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1063,Larhonda,Hartman,60,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-11-05,ultimate,Activo,10.0,75.08,9.0,3527.62,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1064,Gerardo,Ashley,46,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-06-03,surf,Activo,1.0,15.78,3.0,716.24,3.0,50,15360,500,20,10,0.03,0.03,surf
+1065,Sherlyn,Noel,26,"Los Angeles-Long Beach-Anaheim, CA MSA",2018-08-03,surf,Activo,5.0,37.24,4.0,1591.4099999999999,7.0,50,15360,500,20,10,0.03,0.03,surf
+1066,Ariel,Woods,61,"Boston-Cambridge-Newton, MA-NH MSA",2018-03-08,surf,Activo,2.0,13.73,2.0,276.53000000000003,0.0,50,15360,500,20,10,0.03,0.03,surf
+1067,Robt,Allen,37,"Grand Rapids-Kentwood, MI MSA",2018-09-24,surf,2018-11-24,4.0,16.85,6.0,1352.99,4.0,50,15360,500,20,10,0.03,0.03,surf
+1068,Marcel,Jimenez,47,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-01-29,surf,Activo,4.0,5.34,3.0,1105.94,0.0,50,15360,500,20,10,0.03,0.03,surf
+1069,Dino,Fry,31,"Houston-The Woodlands-Sugar Land, TX MSA",2018-09-17,ultimate,Activo,7.0,32.519999999999996,2.0,411.46,2.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1070,Jacelyn,Contreras,66,"Chicago-Naperville-Elgin, IL-IN-WI MSA",2018-05-12,surf,Activo,15.0,84.5,15.0,4347.0599999999995,15.0,50,15360,500,20,10,0.03,0.03,surf
+1071,Isa,Roy,29,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-05-23,surf,Activo,2.0,15.07,0.0,0.0,0.0,50,15360,500,20,10,0.03,0.03,surf
+1072,Seymour,Spence,66,"Dallas-Fort Worth-Arlington, TX MSA",2018-07-12,surf,Activo,2.0,3.4799999999999995,7.0,2994.1800000000003,3.0,50,15360,500,20,10,0.03,0.03,surf
+1073,Grady,Crawford,30,"Chicago-Naperville-Elgin, IL-IN-WI MSA",2018-04-06,surf,Activo,2.0,21.31,2.0,553.47,0.0,50,15360,500,20,10,0.03,0.03,surf
+1074,Particia,Fuller,69,"Knoxville, TN MSA",2018-11-26,ultimate,Activo,14.0,124.92,15.0,5395.36,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1075,Salena,Bates,35,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2018-08-06,surf,Activo,4.0,27.090000000000003,7.0,2763.38,3.0,50,15360,500,20,10,0.03,0.03,surf
+1076,Ronny,Browning,51,"Buffalo-Cheektowaga, NY MSA",2018-07-29,surf,Activo,4.0,10.26,4.0,2505.77,5.0,50,15360,500,20,10,0.03,0.03,surf
+1077,Chau,Webster,23,"Charlotte-Concord-Gastonia, NC-SC MSA",2018-01-14,ultimate,Activo,2.0,29.36,1.0,29.4,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1078,Earnest,Gray,47,"Seattle-Tacoma-Bellevue, WA MSA",2018-02-11,surf,Activo,6.0,33.22,11.0,3842.2200000000003,7.0,50,15360,500,20,10,0.03,0.03,surf
+1079,Brian,Mccall,48,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-01-26,surf,Activo,6.0,49.980000000000004,4.0,994.6600000000001,2.0,50,15360,500,20,10,0.03,0.03,surf
+1080,Neal,Mcgee,45,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-08-03,surf,Activo,0.0,0.0,2.0,619.87,3.0,50,15360,500,20,10,0.03,0.03,surf
+1081,Grayce,Sears,44,"Dallas-Fort Worth-Arlington, TX MSA",2018-04-27,surf,Activo,0.0,0.0,3.0,1194.74,4.0,50,15360,500,20,10,0.03,0.03,surf
+1082,Dominic,Witt,64,"Memphis, TN-MS-AR MSA",2018-04-15,surf,Activo,3.0,5.82,0.0,0.0,1.0,50,15360,500,20,10,0.03,0.03,surf
+1083,Lyndia,Acevedo,65,"Los Angeles-Long Beach-Anaheim, CA MSA",2018-10-26,surf,2018-12-18,3.0,51.31,6.0,1294.21,4.0,50,15360,500,20,10,0.03,0.03,surf
+1084,Wiley,Mckinney,21,"Miami-Fort Lauderdale-West Palm Beach, FL MSA",2018-06-04,surf,2018-11-11,9.0,41.230000000000004,7.0,2252.06,6.0,50,15360,500,20,10,0.03,0.03,surf
+1085,Ignacio,Bennett,48,"Atlanta-Sandy Springs-Roswell, GA MSA",2018-07-19,ultimate,Activo,6.0,77.13,5.0,1612.75,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1086,Adena,Macias,36,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-01-13,ultimate,Activo,15.0,63.019999999999996,15.0,4732.91,15.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1087,Lenard,Atkinson,45,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",2018-11-18,surf,Activo,9.0,32.42,10.0,3403.5,10.0,50,15360,500,20,10,0.03,0.03,surf
+1088,Paris,Robertson,64,"Phoenix-Mesa-Chandler, AZ MSA",2018-05-27,ultimate,Activo,1.0,9.85,1.0,199.97,2.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1089,Malena,Kelley,70,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2018-09-03,surf,Activo,0.0,0.0,15.0,4265.13,15.0,50,15360,500,20,10,0.03,0.03,surf
+1090,Brock,Skinner,30,"Indianapolis-Carmel-Anderson, IN MSA",2018-05-12,surf,Activo,2.0,24.87,2.0,1155.9299999999998,2.0,50,15360,500,20,10,0.03,0.03,surf
+1091,Taylor,Oliver,38,"Riverside-San Bernardino-Ontario, CA MSA",2018-05-04,ultimate,Activo,0.0,0.0,0.0,0.0,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1092,Taren,Strickland,26,"Dallas-Fort Worth-Arlington, TX MSA",2018-12-10,surf,Activo,15.0,99.99,15.0,7431.55,15.0,50,15360,500,20,10,0.03,0.03,surf
+1093,Karima,Hampton,69,"Nashville-Davidson–Murfreesboro–Franklin, TN MSA",2018-12-17,surf,Activo,15.0,109.5,15.0,4063.91,15.0,50,15360,500,20,10,0.03,0.03,surf
+1094,Walter,Petersen,54,"Los Angeles-Long Beach-Anaheim, CA MSA",2018-10-30,surf,2018-12-12,5.0,31.85,9.0,5043.98,5.0,50,15360,500,20,10,0.03,0.03,surf
+1095,Lilliam,Alvarado,55,"Louisville/Jefferson County, KY-IN MSA",2018-04-21,surf,Activo,1.0,0.0,4.0,2428.26,2.0,50,15360,500,20,10,0.03,0.03,surf
+1096,Song,Cline,28,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-12-22,ultimate,Activo,15.0,97.37,15.0,6351.65,14.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1097,Deandre,Powell,27,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",2018-02-26,surf,Activo,2.0,19.21,6.0,1710.83,0.0,50,15360,500,20,10,0.03,0.03,surf
+1098,Collin,Sims,33,"Albany-Schenectady-Troy, NY MSA",2018-08-14,surf,Activo,3.0,17.22,3.0,1711.39,4.0,50,15360,500,20,10,0.03,0.03,surf
+1099,Shavon,Banks,48,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-02-26,surf,Activo,3.0,13.8,1.0,261.9,2.0,50,15360,500,20,10,0.03,0.03,surf
+1100,Aaron,Rowe,65,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-02-13,surf,Activo,5.0,19.990000000000002,1.0,0.0,4.0,50,15360,500,20,10,0.03,0.03,surf
+1101,Sage,Conley,27,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",2018-02-08,surf,Activo,2.0,8.23,3.0,471.79,3.0,50,15360,500,20,10,0.03,0.03,surf
+1102,Marquitta,Walton,30,"Riverside-San Bernardino-Ontario, CA MSA",2018-02-20,ultimate,Activo,15.0,70.35592703379679,15.0,3676.71,15.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1103,Moises,Weeks,28,"Seattle-Tacoma-Bellevue, WA MSA",2018-07-01,surf,Activo,5.0,34.480000000000004,3.0,812.1400000000001,2.0,50,15360,500,20,10,0.03,0.03,surf
+1104,Thurman,Stephens,20,"Chicago-Naperville-Elgin, IL-IN-WI MSA",2018-12-23,ultimate,Activo,4.0,8.73,15.0,5633.81,15.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1105,Micheal,Poole,57,"Providence-Warwick, RI-MA MSA",2018-01-08,surf,Activo,9.0,53.36,3.0,1323.48,7.0,50,15360,500,20,10,0.03,0.03,surf
+1106,Eddy,Garrison,47,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-05-10,surf,2018-11-14,2.0,7.59,6.0,2652.64,0.0,50,15360,500,20,10,0.03,0.03,surf
+1107,Lane,Cash,61,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-11-15,ultimate,Activo,11.0,57.81,8.0,1743.7,10.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1108,Porfirio,Kane,45,"Salt Lake City, UT MSA",2018-12-30,ultimate,Activo,0.0,0.0,2.0,233.17,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1109,Dominic,Salinas,41,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-02-16,surf,Activo,0.0,0.0,0.0,0.0,0.0,50,15360,500,20,10,0.03,0.03,surf
+1110,Anderson,Cotton,65,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",2018-04-20,surf,Activo,4.0,32.120000000000005,3.0,983.39,1.0,50,15360,500,20,10,0.03,0.03,surf
+1111,Booker,Hahn,75,"Urban Honolulu, HI MSA",2018-09-17,surf,Activo,6.0,61.480000000000004,1.0,247.08,6.0,50,15360,500,20,10,0.03,0.03,surf
+1112,Amal,Pacheco,18,"Grand Rapids-Kentwood, MI MSA",2018-10-08,ultimate,Activo,7.0,33.14,5.0,553.55,8.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1113,Spencer,Powers,27,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-06-04,ultimate,Activo,2.0,16.22,7.0,2767.91,3.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1114,Esta,Estes,55,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-07-21,surf,Activo,3.0,29.96,3.0,1084.28,4.0,50,15360,500,20,10,0.03,0.03,surf
+1115,Yevette,Yang,21,"El Paso, TX MSA",2018-11-19,surf,Activo,7.0,41.07,10.0,1637.49,15.0,50,15360,500,20,10,0.03,0.03,surf
+1116,Moriah,Yates,60,"Cincinnati, OH-KY-IN MSA",2018-08-08,surf,Activo,0.0,0.0,0.0,0.0,0.0,50,15360,500,20,10,0.03,0.03,surf
+1117,Hank,Taylor,49,"Dallas-Fort Worth-Arlington, TX MSA",2018-01-24,surf,Activo,1.0,5.6,3.0,690.77,0.0,50,15360,500,20,10,0.03,0.03,surf
+1118,Deane,Ramirez,28,"Columbus, OH MSA",2018-12-08,surf,Activo,15.0,119.35000000000001,15.0,7900.14,15.0,50,15360,500,20,10,0.03,0.03,surf
+1119,Anderson,Palmer,60,"Louisville/Jefferson County, KY-IN MSA",2018-10-05,surf,Activo,6.0,26.69,2.0,1813.6599999999999,5.0,50,15360,500,20,10,0.03,0.03,surf
+1120,Abraham,Mcconnell,33,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-04-03,surf,Activo,4.0,40.269999999999996,1.0,765.04,2.0,50,15360,500,20,10,0.03,0.03,surf
+1121,Kathaleen,Albert,34,"Miami-Fort Lauderdale-West Palm Beach, FL MSA",2018-03-13,surf,Activo,0.0,0.0,14.0,5841.42,15.0,50,15360,500,20,10,0.03,0.03,surf
+1122,Lashay,Reese,57,"Miami-Fort Lauderdale-West Palm Beach, FL MSA",2018-03-04,surf,Activo,1.0,0.0,1.0,200.52,3.0,50,15360,500,20,10,0.03,0.03,surf
+1123,Dierdre,Nash,66,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2018-04-19,surf,Activo,5.0,55.81,1.0,581.77,4.0,50,15360,500,20,10,0.03,0.03,surf
+1124,Jenell,Navarro,48,"New Haven-Milford, CT MSA",2018-02-19,ultimate,Activo,6.0,33.71,6.0,4433.85,7.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1125,Assunta,Carver,39,"North Port-Sarasota-Bradenton, FL MSA",2018-08-16,surf,Activo,15.0,119.14,15.0,3954.66,15.0,50,15360,500,20,10,0.03,0.03,surf
+1126,Jermaine,Mcguire,68,"Chicago-Naperville-Elgin, IL-IN-WI MSA",2018-06-02,ultimate,Activo,2.0,22.16,0.0,0.0,2.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1127,Marchelle,Brock,28,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-06-23,surf,Activo,1.0,7.47,5.0,460.85,3.0,50,15360,500,20,10,0.03,0.03,surf
+1128,Lucius,Fernandez,41,"Knoxville, TN MSA",2018-01-25,ultimate,Activo,3.0,25.6,1.0,1190.32,1.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1129,Marin,Bolton,70,"Baton Rouge, LA MSA",2018-11-10,surf,2018-12-27,0.0,0.0,0.0,0.0,0.0,50,15360,500,20,10,0.03,0.03,surf
+1130,Clarence,Cunningham,27,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2018-05-17,surf,Activo,5.0,20.14,3.0,1315.33,3.0,50,15360,500,20,10,0.03,0.03,surf
+1131,Shane,Morrison,60,"Los Angeles-Long Beach-Anaheim, CA MSA",2018-01-07,surf,Activo,0.0,0.0,1.0,789.3,1.0,50,15360,500,20,10,0.03,0.03,surf
+1132,Edward,Roberts,39,"San Francisco-Oakland-Berkeley, CA MSA",2018-04-14,ultimate,Activo,3.0,15.06,0.0,0.0,3.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1133,Larry,Barr,50,"Cincinnati, OH-KY-IN MSA",2018-07-21,ultimate,Activo,3.0,16.43,2.0,629.38,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1134,Shannon,Nichols,71,"Chicago-Naperville-Elgin, IL-IN-WI MSA",2018-09-03,surf,Activo,6.0,33.980000000000004,4.0,969.47,1.0,50,15360,500,20,10,0.03,0.03,surf
+1135,Scotty,White,51,"Miami-Fort Lauderdale-West Palm Beach, FL MSA",2018-12-23,ultimate,Activo,15.0,126.63000000000001,12.0,6921.2,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1136,Jasper,Caldwell,25,"Knoxville, TN MSA",2018-10-14,surf,Activo,4.0,13.670000000000002,7.0,2067.54,4.0,50,15360,500,20,10,0.03,0.03,surf
+1137,Allegra,Hopkins,20,"Chicago-Naperville-Elgin, IL-IN-WI MSA",2018-10-02,surf,Activo,0.0,0.0,5.0,2059.42,5.0,50,15360,500,20,10,0.03,0.03,surf
+1138,Arlie,Higgins,66,"Riverside-San Bernardino-Ontario, CA MSA",2018-02-06,surf,Activo,0.0,0.0,0.0,0.0,1.0,50,15360,500,20,10,0.03,0.03,surf
+1139,Thomas,Lawson,66,"New Orleans-Metairie, LA MSA",2018-11-18,surf,Activo,11.0,92.07000000000001,9.0,5230.84,9.0,50,15360,500,20,10,0.03,0.03,surf
+1140,Randolph,Graves,53,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-03-26,surf,Activo,0.0,0.0,0.0,0.0,0.0,50,15360,500,20,10,0.03,0.03,surf
+1141,Kirstie,Hodges,46,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-06-26,surf,Activo,1.0,5.86,3.0,1142.9,4.0,50,15360,500,20,10,0.03,0.03,surf
+1142,Charlesetta,Dillard,18,"New Orleans-Metairie, LA MSA",2018-08-23,surf,Activo,5.0,16.94,5.0,1123.87,5.0,50,15360,500,20,10,0.03,0.03,surf
+1143,Lorina,Stevens,69,"Cincinnati, OH-KY-IN MSA",2018-10-26,surf,Activo,0.0,0.0,0.0,0.0,0.0,50,15360,500,20,10,0.03,0.03,surf
+1144,Kaycee,Peterson,65,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-04-21,ultimate,Activo,2.0,4.71,2.0,1630.74,1.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1145,Venice,Brooks,29,"San Jose-Sunnyvale-Santa Clara, CA MSA",2018-04-12,surf,Activo,4.0,12.02,5.0,971.65,2.0,50,15360,500,20,10,0.03,0.03,surf
+1146,Loma,Mcneil,42,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-10-13,surf,Activo,7.0,42.51,4.0,1438.8200000000002,5.0,50,15360,500,20,10,0.03,0.03,surf
+1147,Duncan,Malone,71,"Urban Honolulu, HI MSA",2018-04-30,surf,Activo,3.0,9.06,0.0,0.0,0.0,50,15360,500,20,10,0.03,0.03,surf
+1148,Dwana,Moore,67,"Columbia, SC MSA",2018-11-04,surf,Activo,7.0,50.94,9.0,3790.6800000000003,9.0,50,15360,500,20,10,0.03,0.03,surf
+1149,Jamaal,Camacho,54,"San Francisco-Oakland-Berkeley, CA MSA",2018-03-03,surf,Activo,7.0,34.17,5.0,2522.3199999999997,0.0,50,15360,500,20,10,0.03,0.03,surf
+1150,Earlie,Giles,46,"Houston-The Woodlands-Sugar Land, TX MSA",2018-09-19,ultimate,Activo,8.0,65.24,4.0,1912.54,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1151,Ralph,Monroe,21,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-03-20,surf,Activo,3.0,12.45,2.0,406.34000000000003,3.0,50,15360,500,20,10,0.03,0.03,surf
+1152,Merrill,Hogan,35,"Orlando-Kissimmee-Sanford, FL MSA",2018-11-01,surf,Activo,7.0,43.190000000000005,7.0,1745.92,0.0,50,15360,500,20,10,0.03,0.03,surf
+1153,Kathaleen,Crawford,30,"Bridgeport-Stamford-Norwalk, CT MSA",2018-06-19,surf,Activo,1.0,8.35,1.0,159.18,0.0,50,15360,500,20,10,0.03,0.03,surf
+1154,Humberto,Pruitt,53,"Nashville-Davidson–Murfreesboro–Franklin, TN MSA",2018-07-18,ultimate,Activo,5.0,20.19,6.0,1169.02,4.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1155,Claude,Hahn,19,"Miami-Fort Lauderdale-West Palm Beach, FL MSA",2018-02-21,ultimate,Activo,0.0,0.0,1.0,469.63,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1156,Anette,Chambers,71,"Albuquerque, NM MSA",2018-03-25,surf,Activo,3.0,31.05,1.0,436.07,0.0,50,15360,500,20,10,0.03,0.03,surf
+1157,Luciano,Sheppard,63,"Los Angeles-Long Beach-Anaheim, CA MSA",2018-07-02,surf,Activo,1.0,4.53,4.0,1079.67,0.0,50,15360,500,20,10,0.03,0.03,surf
+1158,Robin,Thornton,20,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",2018-11-30,ultimate,Activo,15.0,104.85,15.0,5381.67,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1159,Dierdre,Baker,58,"Miami-Fort Lauderdale-West Palm Beach, FL MSA",2018-07-21,ultimate,Activo,4.0,13.52,1.0,239.89,6.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1160,Steven,Morgan,44,"Portland-Vancouver-Hillsboro, OR-WA MSA",2018-02-05,surf,Activo,1.0,0.0,2.0,973.6600000000001,0.0,50,15360,500,20,10,0.03,0.03,surf
+1161,Florance,Estrada,52,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-11-27,ultimate,Activo,12.0,79.82,15.0,3522.85,2.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1162,Mark,Farley,20,"Los Angeles-Long Beach-Anaheim, CA MSA",2018-07-12,ultimate,Activo,6.0,67.09,5.0,2582.23,7.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1163,Lanie,Washington,27,"Los Angeles-Long Beach-Anaheim, CA MSA",2018-01-12,ultimate,Activo,3.0,29.869999999999997,6.0,2156.46,2.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1164,Kam,Macias,31,"Chicago-Naperville-Elgin, IL-IN-WI MSA",2018-02-17,ultimate,Activo,0.0,0.0,0.0,0.0,1.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1165,Nigel,Huber,20,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2018-10-27,surf,Activo,6.0,50.35,7.0,2023.09,8.0,50,15360,500,20,10,0.03,0.03,surf
+1166,Kaycee,Bryant,26,"Baltimore-Columbia-Towson, MD MSA",2018-05-07,surf,Activo,2.0,9.83,1.0,778.21,0.0,50,15360,500,20,10,0.03,0.03,surf
+1167,Rebbecca,Nicholson,47,"Denver-Aurora-Lakewood, CO MSA",2018-04-06,surf,Activo,1.0,5.06,2.0,391.36,0.0,50,15360,500,20,10,0.03,0.03,surf
+1168,Shay,Weaver,58,"Milwaukee-Waukesha, WI MSA",2018-12-13,surf,Activo,15.0,76.17,15.0,4586.36,14.0,50,15360,500,20,10,0.03,0.03,surf
+1169,Hai,Bean,67,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-12-06,surf,Activo,15.0,100.43,15.0,6711.22,15.0,50,15360,500,20,10,0.03,0.03,surf
+1170,Olin,Adkins,18,"Pittsburgh, PA MSA",2018-09-25,surf,Activo,1.0,19.59,4.0,1801.8700000000001,6.0,50,15360,500,20,10,0.03,0.03,surf
+1171,Devin,Wilkinson,56,"Boston-Cambridge-Newton, MA-NH MSA",2018-01-27,surf,Activo,3.0,16.490000000000002,4.0,1245.63,0.0,50,15360,500,20,10,0.03,0.03,surf
+1172,Weldon,Robinson,72,"Boston-Cambridge-Newton, MA-NH MSA",2018-03-30,surf,2018-11-29,3.0,24.57,6.0,2008.62,2.0,50,15360,500,20,10,0.03,0.03,surf
+1173,Tristan,Cain,27,"Oxnard-Thousand Oaks-Ventura, CA MSA",2018-09-28,surf,Activo,5.0,41.61,4.0,2086.25,4.0,50,15360,500,20,10,0.03,0.03,surf
+1174,Larisa,Ellis,67,"Cleveland-Elyria, OH MSA",2018-01-28,surf,Activo,3.0,3.6,0.0,0.0,2.0,50,15360,500,20,10,0.03,0.03,surf
+1175,Shiloh,Stafford,25,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-09-30,surf,Activo,2.0,8.36,4.0,1057.3700000000001,7.0,50,15360,500,20,10,0.03,0.03,surf
+1176,Terrance,Shaffer,75,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-10-03,surf,Activo,4.0,5.14,8.0,2046.13,4.0,50,15360,500,20,10,0.03,0.03,surf
+1177,Seymour,Anderson,33,"Seattle-Tacoma-Bellevue, WA MSA",2018-11-09,surf,Activo,8.0,41.19,10.0,3284.25,7.0,50,15360,500,20,10,0.03,0.03,surf
+1178,Charlsie,Reid,53,"Cincinnati, OH-KY-IN MSA",2018-10-05,surf,Activo,7.0,31.35,7.0,1963.26,6.0,50,15360,500,20,10,0.03,0.03,surf
+1179,Darcey,Baird,22,"Dallas-Fort Worth-Arlington, TX MSA",2018-04-27,surf,Activo,0.0,0.0,3.0,423.06,1.0,50,15360,500,20,10,0.03,0.03,surf
+1180,Wonda,Hays,24,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-12-01,surf,2018-12-22,15.0,96.88,15.0,7600.01,15.0,50,15360,500,20,10,0.03,0.03,surf
+1181,Ron,Kaufman,47,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-04-13,surf,Activo,3.0,21.35,2.0,460.20000000000005,2.0,50,15360,500,20,10,0.03,0.03,surf
+1182,Jeff,Burt,39,"Charlotte-Concord-Gastonia, NC-SC MSA",2018-05-29,surf,Activo,2.0,16.29,0.0,0.0,2.0,50,15360,500,20,10,0.03,0.03,surf
+1183,Jermaine,Gallegos,71,"Chicago-Naperville-Elgin, IL-IN-WI MSA",2018-07-20,surf,Activo,8.0,50.68,1.0,0.0,8.0,50,15360,500,20,10,0.03,0.03,surf
+1184,Fredric,Middleton,39,"Sacramento–Roseville–Folsom, CA MSA",2018-03-07,ultimate,Activo,15.0,94.85,15.0,7199.07,15.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1185,Loria,Freeman,47,"Louisville/Jefferson County, KY-IN MSA",2018-01-14,ultimate,Activo,0.0,0.0,1.0,274.77,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1186,Josiah,Douglas,55,"Las Vegas-Henderson-Paradise, NV MSA",2018-12-22,ultimate,2018-12-31,15.0,83.42,9.0,1948.94,13.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1187,Tanner,Goodman,49,"Austin-Round Rock-Georgetown, TX MSA",2018-02-20,surf,Activo,3.0,21.93,2.0,820.03,2.0,50,15360,500,20,10,0.03,0.03,surf
+1188,Ethelene,Brock,31,"Richmond, VA MSA",2018-01-10,ultimate,Activo,1.0,9.35,7.0,1950.0500000000002,3.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1189,Terrence,Smith,75,"Columbus, OH MSA",2018-09-24,surf,Activo,2.0,14.86,4.0,1035.54,3.0,50,15360,500,20,10,0.03,0.03,surf
+1190,Troy,Hutchinson,56,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",2018-08-01,ultimate,Activo,15.0,98.9,15.0,3743.32,3.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1191,Zack,Waters,75,"St. Louis, MO-IL MSA",2018-01-21,ultimate,2018-11-30,1.0,10.71,0.0,0.0,2.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1192,Korey,Goodwin,36,"Buffalo-Cheektowaga, NY MSA",2018-10-02,surf,Activo,7.0,32.485927033796784,4.0,1691.57,3.0,50,15360,500,20,10,0.03,0.03,surf
+1193,Lacresha,Olsen,18,"Houston-The Woodlands-Sugar Land, TX MSA",2018-07-07,surf,Activo,3.0,25.21,1.0,600.54,4.0,50,15360,500,20,10,0.03,0.03,surf
+1194,Robert,Mclean,40,"San Jose-Sunnyvale-Santa Clara, CA MSA",2018-05-31,surf,Activo,0.0,0.0,4.0,1755.25,1.0,50,15360,500,20,10,0.03,0.03,surf
+1195,Roy,Velez,60,"Portland-Vancouver-Hillsboro, OR-WA MSA",2018-06-09,surf,Activo,4.0,21.759999999999998,5.0,553.4200000000001,4.0,50,15360,500,20,10,0.03,0.03,surf
+1196,Noel,Dawson,46,"Los Angeles-Long Beach-Anaheim, CA MSA",2018-01-14,ultimate,Activo,1.0,0.0,0.0,0.0,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1197,Lon,Parker,56,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-11-05,surf,Activo,7.0,45.82,8.0,1880.4299999999998,5.0,50,15360,500,20,10,0.03,0.03,surf
+1198,Russ,Horne,69,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-05-01,surf,Activo,4.0,31.060000000000002,3.0,1192.1599999999999,7.0,50,15360,500,20,10,0.03,0.03,surf
+1199,Antonetta,Finley,39,"San Antonio-New Braunfels, TX MSA",2018-08-01,ultimate,Activo,5.0,51.400000000000006,0.0,0.0,2.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1200,Delmar,Cross,45,"Boston-Cambridge-Newton, MA-NH MSA",2018-11-27,surf,Activo,14.0,58.58,14.0,3640.52,13.0,50,15360,500,20,10,0.03,0.03,surf
+1201,Jeanelle,Estrada,61,"Bridgeport-Stamford-Norwalk, CT MSA",2018-06-04,surf,Activo,1.0,2.09,2.0,1615.6699999999998,5.0,50,15360,500,20,10,0.03,0.03,surf
+1202,Osvaldo,Mayer,36,"Minneapolis-St. Paul-Bloomington, MN-WI MSA",2018-09-30,ultimate,Activo,8.0,45.63,2.0,710.6,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1203,Manie,Grimes,50,"Boston-Cambridge-Newton, MA-NH MSA",2018-02-11,surf,Activo,3.0,11.399999999999999,0.0,0.0,2.0,50,15360,500,20,10,0.03,0.03,surf
+1204,Sherly,Levy,44,"Chicago-Naperville-Elgin, IL-IN-WI MSA",2018-08-20,ultimate,Activo,0.0,0.0,9.0,3925.21,11.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1205,Rafael,Wade,43,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-04-05,surf,Activo,13.0,113.74,9.0,3111.38,9.0,50,15360,500,20,10,0.03,0.03,surf
+1206,Angelic,Singleton,21,"Providence-Warwick, RI-MA MSA",2018-07-09,surf,Activo,2.0,3.48,4.0,1259.37,1.0,50,15360,500,20,10,0.03,0.03,surf
+1207,Samuel,Porter,63,"Omaha-Council Bluffs, NE-IA MSA",2018-12-22,surf,Activo,15.0,96.59,15.0,4881.62,9.0,50,15360,500,20,10,0.03,0.03,surf
+1208,Enrique,Ramirez,44,"San Diego-Chula Vista-Carlsbad, CA MSA",2018-07-17,surf,Activo,15.0,96.77,15.0,5588.98,0.0,50,15360,500,20,10,0.03,0.03,surf
+1209,Garret,Paul,63,"Los Angeles-Long Beach-Anaheim, CA MSA",2018-08-28,surf,Activo,2.0,32.27,2.0,935.67,3.0,50,15360,500,20,10,0.03,0.03,surf
+1210,Shanae,Carrillo,30,"Oklahoma City, OK MSA",2018-06-01,surf,Activo,0.0,0.0,0.0,0.0,0.0,50,15360,500,20,10,0.03,0.03,surf
+1211,Vito,Cameron,60,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-06-30,ultimate,Activo,1.0,14.05,0.0,0.0,3.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1212,Alfredo,Pruitt,36,"Austin-Round Rock-Georgetown, TX MSA",2018-07-27,surf,Activo,3.0,10.56,3.0,1380.21,3.0,50,15360,500,20,10,0.03,0.03,surf
+1213,Carl,Newman,47,"San Diego-Chula Vista-Carlsbad, CA MSA",2018-11-25,ultimate,Activo,14.0,72.28,13.0,4765.47,14.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1214,Emil,Robles,34,"San Francisco-Oakland-Berkeley, CA MSA",2018-01-01,ultimate,Activo,1.0,10.13,0.0,0.0,2.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1215,Adelle,Knapp,70,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-07-01,surf,Activo,7.0,82.95,4.0,1996.97,4.0,50,15360,500,20,10,0.03,0.03,surf
+1216,Reita,Atkins,29,"San Francisco-Oakland-Berkeley, CA MSA",2018-06-19,surf,Activo,4.0,50.81,5.0,1685.47,0.0,50,15360,500,20,10,0.03,0.03,surf
+1217,Ned,Thomas,69,"Dayton-Kettering, OH MSA",2018-06-04,surf,Activo,4.0,17.06,8.0,1424.2,0.0,50,15360,500,20,10,0.03,0.03,surf
+1218,Stanford,Pena,23,"Bakersfield, CA MSA",2018-01-16,surf,Activo,15.0,115.25,15.0,4465.9,15.0,50,15360,500,20,10,0.03,0.03,surf
+1219,Gavin,Keller,51,"Detroit-Warren-Dearborn, MI MSA",2018-05-14,surf,Activo,9.0,100.1,13.0,3271.71,9.0,50,15360,500,20,10,0.03,0.03,surf
+1220,Jack,Strong,26,"Cincinnati, OH-KY-IN MSA",2018-04-22,surf,2018-10-13,1.0,2.88,3.0,454.41,2.0,50,15360,500,20,10,0.03,0.03,surf
+1221,Mckenzie,Wilkinson,18,"Boston-Cambridge-Newton, MA-NH MSA",2018-12-17,surf,Activo,15.0,71.16,15.0,4375.88,11.0,50,15360,500,20,10,0.03,0.03,surf
+1222,Cleo,Anderson,18,"Los Angeles-Long Beach-Anaheim, CA MSA",2018-06-27,surf,Activo,1.0,0.0,3.0,1323.25,5.0,50,15360,500,20,10,0.03,0.03,surf
+1223,Patience,Wilson,37,"Phoenix-Mesa-Chandler, AZ MSA",2018-07-05,surf,Activo,3.0,19.38,2.0,136.42,3.0,50,15360,500,20,10,0.03,0.03,surf
+1224,Kelly,Cole,74,"Atlanta-Sandy Springs-Roswell, GA MSA",2018-06-28,ultimate,Activo,0.0,0.0,0.0,0.0,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1225,Margarito,Barker,41,"Columbia, SC MSA",2018-06-07,surf,Activo,15.0,52.76,15.0,4230.03,0.0,50,15360,500,20,10,0.03,0.03,surf
+1226,Denver,Harrell,64,"Riverside-San Bernardino-Ontario, CA MSA",2018-03-15,ultimate,Activo,5.0,50.54,2.0,960.37,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1227,Vanesa,Willis,29,"Dallas-Fort Worth-Arlington, TX MSA",2018-01-17,surf,Activo,15.0,107.15,15.0,3906.25,15.0,50,15360,500,20,10,0.03,0.03,surf
+1228,Jude,Hale,26,"Detroit-Warren-Dearborn, MI MSA",2018-04-15,surf,Activo,2.0,19.02,3.0,627.98,0.0,50,15360,500,20,10,0.03,0.03,surf
+1229,Augustus,Barker,69,"Austin-Round Rock-Georgetown, TX MSA",2018-12-09,ultimate,Activo,15.0,89.24000000000001,15.0,9343.01,15.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1230,Andre,Estes,38,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-02-27,ultimate,Activo,15.0,97.38,15.0,7530.98,15.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1231,Gaylord,Witt,57,"San Jose-Sunnyvale-Santa Clara, CA MSA",2018-01-19,ultimate,Activo,2.0,21.89,2.0,707.5799999999999,3.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1232,Elidia,Russell,64,"Chicago-Naperville-Elgin, IL-IN-WI MSA",2018-04-07,surf,Activo,3.0,7.24,4.0,1066.56,3.0,50,15360,500,20,10,0.03,0.03,surf
+1233,Janee,Perkins,33,"Atlanta-Sandy Springs-Roswell, GA MSA",2018-09-11,surf,Activo,5.0,32.46592703379678,3.0,694.45,0.0,50,15360,500,20,10,0.03,0.03,surf
+1234,Matt,Taylor,19,"Seattle-Tacoma-Bellevue, WA MSA",2018-09-12,ultimate,Activo,15.0,97.63,15.0,3047.11,15.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1235,Felton,Nguyen,50,"Minneapolis-St. Paul-Bloomington, MN-WI MSA",2018-02-20,surf,Activo,3.0,25.52,5.0,1785.49,6.0,50,15360,500,20,10,0.03,0.03,surf
+1236,Odell,Juarez,74,"Minneapolis-St. Paul-Bloomington, MN-WI MSA",2018-04-04,ultimate,Activo,2.0,8.1,3.0,926.5,1.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1237,Leighann,Wheeler,50,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-08-26,ultimate,Activo,1.0,3.02,4.0,1263.44,7.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1238,Jackeline,Byrd,42,"Dallas-Fort Worth-Arlington, TX MSA",2018-06-16,surf,Activo,10.0,61.56,6.0,2133.39,0.0,50,15360,500,20,10,0.03,0.03,surf
+1239,Quentin,Hancock,24,"Fresno, CA MSA",2018-08-11,surf,Activo,6.0,28.990000000000002,4.0,919.8100000000001,0.0,50,15360,500,20,10,0.03,0.03,surf
+1240,Drema,Lopez,61,"Baton Rouge, LA MSA",2018-03-18,surf,Activo,2.0,0.0,3.0,1695.38,3.0,50,15360,500,20,10,0.03,0.03,surf
+1241,Lala,Walls,24,"Richmond, VA MSA",2018-08-27,surf,Activo,5.0,27.15,6.0,3423.73,6.0,50,15360,500,20,10,0.03,0.03,surf
+1242,Lashunda,Johns,37,"San Antonio-New Braunfels, TX MSA",2018-06-02,surf,Activo,4.0,34.31,7.0,2208.9300000000003,7.0,50,15360,500,20,10,0.03,0.03,surf
+1243,Isaias,Compton,71,"Phoenix-Mesa-Chandler, AZ MSA",2018-05-11,surf,Activo,6.0,58.34,5.0,2536.06,5.0,50,15360,500,20,10,0.03,0.03,surf
+1244,Demarcus,Ellis,75,"Birmingham-Hoover, AL MSA",2018-02-05,surf,Activo,10.0,110.17,10.0,3223.1000000000004,8.0,50,15360,500,20,10,0.03,0.03,surf
+1245,Quinn,David,30,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-06-19,surf,Activo,4.0,9.07,3.0,274.06,2.0,50,15360,500,20,10,0.03,0.03,surf
+1246,Stevie,Moran,69,"Tampa-St. Petersburg-Clearwater, FL MSA",2018-01-09,ultimate,2018-07-31,0.0,0.0,0.0,0.0,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1247,Marion,Singleton,75,"Los Angeles-Long Beach-Anaheim, CA MSA",2018-04-12,ultimate,Activo,3.0,14.67,4.0,1878.48,4.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1248,Leigha,Dawson,35,"Nashville-Davidson–Murfreesboro–Franklin, TN MSA",2018-11-01,surf,Activo,14.0,69.94,14.0,4478.639999999999,14.0,50,15360,500,20,10,0.03,0.03,surf
+1249,Kelly,Goodman,41,"Cincinnati, OH-KY-IN MSA",2018-05-14,ultimate,Activo,0.0,0.0,0.0,0.0,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1250,Milan,Sellers,57,"Houston-The Woodlands-Sugar Land, TX MSA",2018-04-03,ultimate,Activo,5.0,23.1,7.0,3517.15,5.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1251,Tifany,Mcgee,45,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-01-01,surf,Activo,1.0,5.71,3.0,1509.34,4.0,50,15360,500,20,10,0.03,0.03,surf
+1252,Mitsue,York,27,"Detroit-Warren-Dearborn, MI MSA",2018-06-10,surf,Activo,3.0,20.17,0.0,0.0,4.0,50,15360,500,20,10,0.03,0.03,surf
+1253,Sumiko,Dudley,28,"Cleveland-Elyria, OH MSA",2018-08-18,ultimate,Activo,5.0,15.15,6.0,1152.9299999999998,1.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1254,Billy,Webb,49,"Detroit-Warren-Dearborn, MI MSA",2018-08-03,surf,Activo,2.0,29.080000000000002,3.0,546.18,1.0,50,15360,500,20,10,0.03,0.03,surf
+1255,Kennith,Rowland,22,"Oklahoma City, OK MSA",2018-08-01,ultimate,Activo,5.0,20.6,4.0,897.46,5.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1256,Johnny,Wise,53,"Chicago-Naperville-Elgin, IL-IN-WI MSA",2018-09-11,surf,Activo,3.0,32.53,1.0,571.78,3.0,50,15360,500,20,10,0.03,0.03,surf
+1257,Gabriel,O'donnell,61,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-01-29,surf,Activo,4.0,10.15,1.0,291.09,1.0,50,15360,500,20,10,0.03,0.03,surf
+1258,Kai,Russell,39,"Chicago-Naperville-Elgin, IL-IN-WI MSA",2018-07-12,surf,Activo,6.0,60.34,1.0,485.65,4.0,50,15360,500,20,10,0.03,0.03,surf
+1259,Etsuko,Perry,63,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2018-03-16,surf,Activo,2.0,24.59,2.0,1078.27,5.0,50,15360,500,20,10,0.03,0.03,surf
+1260,Alia,Aguilar,36,"Los Angeles-Long Beach-Anaheim, CA MSA",2018-12-02,surf,Activo,15.0,116.57,15.0,4847.99,15.0,50,15360,500,20,10,0.03,0.03,surf
+1261,Dusti,Forbes,31,"Kansas City, MO-KS MSA",2018-02-22,surf,Activo,1.0,3.08,3.0,281.46999999999997,1.0,50,15360,500,20,10,0.03,0.03,surf
+1262,Michelina,Hamilton,34,"Dallas-Fort Worth-Arlington, TX MSA",2018-02-09,surf,Activo,15.0,94.97,15.0,4207.02,15.0,50,15360,500,20,10,0.03,0.03,surf
+1263,Lucio,Duffy,39,"Boston-Cambridge-Newton, MA-NH MSA",2018-03-06,surf,Activo,2.0,0.0,1.0,567.99,1.0,50,15360,500,20,10,0.03,0.03,surf
+1264,Jessie,Hill,69,"Los Angeles-Long Beach-Anaheim, CA MSA",2018-05-03,ultimate,Activo,4.0,11.21,0.0,0.0,2.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1265,Alec,Henry,29,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",2018-11-23,surf,Activo,12.0,54.15,13.0,3791.07,0.0,50,15360,500,20,10,0.03,0.03,surf
+1266,Dorie,Chandler,62,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-12-13,surf,Activo,15.0,70.41,15.0,4967.68,15.0,50,15360,500,20,10,0.03,0.03,surf
+1267,Gia,Parker,53,"St. Louis, MO-IL MSA",2018-03-12,surf,Activo,12.0,69.65,15.0,3216.95,13.0,50,15360,500,20,10,0.03,0.03,surf
+1268,Britni,Bowers,33,"Fresno, CA MSA",2018-01-13,surf,Activo,1.0,11.43,1.0,503.76,0.0,50,15360,500,20,10,0.03,0.03,surf
+1269,Irving,Thompson,39,"Dallas-Fort Worth-Arlington, TX MSA",2018-09-13,ultimate,2018-12-15,0.0,0.0,0.0,0.0,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1270,Anjelica,Chan,70,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2018-09-18,ultimate,Activo,2.0,4.71,4.0,1196.35,4.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1271,Darrin,Rose,48,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-06-24,surf,Activo,15.0,115.91,15.0,6482.97,15.0,50,15360,500,20,10,0.03,0.03,surf
+1272,Ernest,Mercado,23,"Minneapolis-St. Paul-Bloomington, MN-WI MSA",2018-08-04,surf,Activo,13.0,84.74,14.0,4529.29,15.0,50,15360,500,20,10,0.03,0.03,surf
+1273,Hermila,Ryan,25,"Baton Rouge, LA MSA",2018-10-13,ultimate,Activo,7.0,30.96,4.0,1289.87,4.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1274,Dudley,Massey,53,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2018-06-10,ultimate,Activo,15.0,150.2,15.0,5678.21,15.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1275,Elvie,Velazquez,33,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-11-29,ultimate,Activo,0.0,0.0,0.0,0.0,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1276,Karmen,Carney,20,"Phoenix-Mesa-Chandler, AZ MSA",2018-02-14,surf,Activo,4.0,27.6,7.0,1514.6,5.0,50,15360,500,20,10,0.03,0.03,surf
+1277,Andrew,Faulkner,25,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-02-02,surf,Activo,2.0,7.01,0.0,0.0,0.0,50,15360,500,20,10,0.03,0.03,surf
+1278,Masako,Montgomery,39,"Dayton-Kettering, OH MSA",2018-11-03,surf,Activo,8.0,64.88,9.0,3067.32,6.0,50,15360,500,20,10,0.03,0.03,surf
+1279,Neal,Duke,27,"Baton Rouge, LA MSA",2018-02-05,ultimate,Activo,7.0,64.8,3.0,665.0999999999999,8.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1280,Jasper,Berry,29,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-06-23,surf,Activo,4.0,10.95,1.0,139.84,3.0,50,15360,500,20,10,0.03,0.03,surf
+1281,Zack,Hardy,39,"Charlotte-Concord-Gastonia, NC-SC MSA",2018-07-23,surf,2018-11-14,2.0,5.64,3.0,1421.33,4.0,50,15360,500,20,10,0.03,0.03,surf
+1282,Annice,Calhoun,61,"San Francisco-Oakland-Berkeley, CA MSA",2018-11-01,ultimate,Activo,8.0,47.94,7.0,1601.28,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1283,Alan,Burgess,38,"Charleston-North Charleston, SC MSA",2018-06-16,ultimate,Activo,14.0,84.35,15.0,3819.73,14.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1284,Yuri,Odom,51,"Dayton-Kettering, OH MSA",2018-09-07,surf,Activo,7.0,63.93000000000001,2.0,1244.24,0.0,50,15360,500,20,10,0.03,0.03,surf
+1285,Joesph,Barry,28,"Los Angeles-Long Beach-Anaheim, CA MSA",2018-08-03,surf,Activo,5.0,48.22,2.0,652.8800000000001,3.0,50,15360,500,20,10,0.03,0.03,surf
+1286,Casie,Castaneda,52,"New Haven-Milford, CT MSA",2018-12-07,surf,Activo,15.0,65.91,15.0,3491.5099999999998,10.0,50,15360,500,20,10,0.03,0.03,surf
+1287,Heide,Gill,74,"Sacramento–Roseville–Folsom, CA MSA",2018-03-15,surf,Activo,10.0,35.28,5.0,2631.37,6.0,50,15360,500,20,10,0.03,0.03,surf
+1288,Jenette,Rush,60,"Las Vegas-Henderson-Paradise, NV MSA",2018-07-18,surf,Activo,4.0,13.09,2.0,536.71,0.0,50,15360,500,20,10,0.03,0.03,surf
+1289,Steve,Blair,47,"Detroit-Warren-Dearborn, MI MSA",2018-11-12,ultimate,Activo,4.0,33.28,10.0,2172.18,9.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1290,Thaddeus,Compton,33,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-09-14,surf,Activo,3.0,19.14,6.0,2107.0299999999997,2.0,50,15360,500,20,10,0.03,0.03,surf
+1291,Angeles,Mejia,65,"Indianapolis-Carmel-Anderson, IN MSA",2018-01-29,surf,Activo,2.0,13.559999999999999,2.0,238.4,3.0,50,15360,500,20,10,0.03,0.03,surf
+1292,Cassey,French,42,"Dallas-Fort Worth-Arlington, TX MSA",2018-01-27,surf,Activo,2.0,2.23,2.0,1404.52,0.0,50,15360,500,20,10,0.03,0.03,surf
+1293,Lanny,Nolan,23,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2018-08-13,surf,Activo,6.0,45.83,2.0,416.49,4.0,50,15360,500,20,10,0.03,0.03,surf
+1294,Demetrius,Russo,67,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-04-19,surf,Activo,0.0,0.0,0.0,0.0,0.0,50,15360,500,20,10,0.03,0.03,surf
+1295,Hung,Flowers,68,"Kansas City, MO-KS MSA",2018-08-11,surf,Activo,2.0,17.57,4.0,552.75,4.0,50,15360,500,20,10,0.03,0.03,surf
+1296,Weston,Conley,36,"Miami-Fort Lauderdale-West Palm Beach, FL MSA",2018-10-20,ultimate,2018-12-18,8.0,45.36,4.0,1499.63,8.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1297,Nicky,Tucker,51,"Los Angeles-Long Beach-Anaheim, CA MSA",2018-08-25,surf,Activo,7.0,40.47,9.0,1737.2,0.0,50,15360,500,20,10,0.03,0.03,surf
+1298,Loyce,Cooley,53,"Nashville-Davidson–Murfreesboro–Franklin, TN MSA",2018-09-21,surf,2018-12-19,15.0,94.04592703379679,15.0,7573.7,15.0,50,15360,500,20,10,0.03,0.03,surf
+1299,Keitha,Harrison,64,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-01-19,surf,Activo,1.0,5.89,1.0,0.0,2.0,50,15360,500,20,10,0.03,0.03,surf
+1300,Rene,Frost,23,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-10-21,surf,2018-12-19,9.0,63.03,9.0,3361.2200000000003,0.0,50,15360,500,20,10,0.03,0.03,surf
+1301,Tomas,Horton,64,"Chicago-Naperville-Elgin, IL-IN-WI MSA",2018-01-04,ultimate,Activo,13.0,105.25999999999999,12.0,3447.46,9.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1302,Leonila,Morris,62,"Rochester, NY MSA",2018-01-21,surf,Activo,1.0,10.0,3.0,1517.57,4.0,50,15360,500,20,10,0.03,0.03,surf
+1303,Rosamaria,Reeves,67,"Detroit-Warren-Dearborn, MI MSA",2018-10-25,ultimate,Activo,15.0,99.46000000000001,15.0,6334.17,15.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1304,Dominque,Cole,69,"Birmingham-Hoover, AL MSA",2018-10-28,ultimate,Activo,9.0,92.68,7.0,2779.19,8.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1305,Gwenn,Gross,18,"Los Angeles-Long Beach-Anaheim, CA MSA",2018-05-08,surf,Activo,3.0,14.98,2.0,1261.37,0.0,50,15360,500,20,10,0.03,0.03,surf
+1306,Darron,Craig,19,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",2018-11-26,surf,Activo,0.0,0.0,0.0,0.0,0.0,50,15360,500,20,10,0.03,0.03,surf
+1307,Kristopher,Lang,28,"Boston-Cambridge-Newton, MA-NH MSA",2018-12-31,surf,Activo,0.0,0.0,0.0,0.0,0.0,50,15360,500,20,10,0.03,0.03,surf
+1308,Samara,Monroe,46,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",2018-11-22,surf,Activo,14.0,83.11,12.0,3553.6737010255188,11.0,50,15360,500,20,10,0.03,0.03,surf
+1309,Winfred,Zimmerman,19,"San Diego-Chula Vista-Carlsbad, CA MSA",2018-07-04,surf,Activo,15.0,115.77,15.0,5238.89,15.0,50,15360,500,20,10,0.03,0.03,surf
+1310,Vincent,Fry,73,"Portland-Vancouver-Hillsboro, OR-WA MSA",2018-11-29,surf,Activo,14.0,72.85,15.0,3142.09,0.0,50,15360,500,20,10,0.03,0.03,surf
+1311,Cherlyn,Saunders,69,"Memphis, TN-MS-AR MSA",2018-06-27,ultimate,Activo,4.0,28.26,3.0,438.16999999999996,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1312,Kory,Emerson,42,"Fresno, CA MSA",2018-01-26,surf,Activo,0.0,0.0,0.0,0.0,0.0,50,15360,500,20,10,0.03,0.03,surf
+1313,Antoine,Baker,49,"San Francisco-Oakland-Berkeley, CA MSA",2018-05-24,surf,Activo,1.0,10.1,1.0,687.64,1.0,50,15360,500,20,10,0.03,0.03,surf
+1314,Brice,Morgan,35,"Los Angeles-Long Beach-Anaheim, CA MSA",2018-03-06,ultimate,Activo,9.0,61.99,7.0,1448.91,7.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1315,Mora,Schroeder,45,"Raleigh-Cary, NC MSA",2018-04-26,surf,2018-10-03,9.0,89.89,5.0,1701.2600000000002,9.0,50,15360,500,20,10,0.03,0.03,surf
+1316,Lucilla,Weeks,59,"Tulsa, OK MSA",2018-05-21,surf,Activo,1.0,0.0,1.0,962.03,3.0,50,15360,500,20,10,0.03,0.03,surf
+1317,Ruthanne,Heath,70,"Phoenix-Mesa-Chandler, AZ MSA",2018-11-11,ultimate,Activo,10.0,85.07,8.0,3907.53,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1318,Huey,Walsh,54,"Atlanta-Sandy Springs-Roswell, GA MSA",2018-09-29,surf,Activo,4.0,8.370000000000001,4.0,1265.75,7.0,50,15360,500,20,10,0.03,0.03,surf
+1319,Eliseo,Carson,21,"Colorado Springs, CO MSA",2018-06-17,surf,Activo,0.0,0.0,0.0,0.0,0.0,50,15360,500,20,10,0.03,0.03,surf
+1320,Bert,Wells,23,"Los Angeles-Long Beach-Anaheim, CA MSA",2018-02-23,surf,Activo,3.0,48.3,1.0,564.67,0.0,50,15360,500,20,10,0.03,0.03,surf
+1321,Karlyn,Jimenez,19,"North Port-Sarasota-Bradenton, FL MSA",2018-05-31,surf,Activo,0.0,0.0,5.0,976.6800000000001,0.0,50,15360,500,20,10,0.03,0.03,surf
+1322,Tyler,Sweeney,22,"Fresno, CA MSA",2018-06-18,surf,Activo,6.0,29.619999999999997,3.0,1346.82,0.0,50,15360,500,20,10,0.03,0.03,surf
+1323,Pamelia,Atkins,42,"Baltimore-Columbia-Towson, MD MSA",2018-12-30,surf,Activo,3.0,27.03,3.0,1024.85,1.0,50,15360,500,20,10,0.03,0.03,surf
+1324,Romana,Moore,18,"Minneapolis-St. Paul-Bloomington, MN-WI MSA",2018-04-04,surf,Activo,1.0,13.92,3.0,1807.97,2.0,50,15360,500,20,10,0.03,0.03,surf
+1325,Cleora,Lyons,43,"Dallas-Fort Worth-Arlington, TX MSA",2018-06-26,surf,Activo,10.0,60.57000000000001,9.0,1838.25,0.0,50,15360,500,20,10,0.03,0.03,surf
+1326,Johnathon,Branch,21,"Greensboro-High Point, NC MSA",2018-02-06,surf,Activo,3.0,24.15,4.0,1496.56,3.0,50,15360,500,20,10,0.03,0.03,surf
+1327,Natosha,Peck,20,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-02-17,surf,Activo,3.0,24.32,3.0,725.21,3.0,50,15360,500,20,10,0.03,0.03,surf
+1328,Tamesha,Huber,20,"Minneapolis-St. Paul-Bloomington, MN-WI MSA",2018-02-10,surf,Activo,2.0,23.94,3.0,823.97,1.0,50,15360,500,20,10,0.03,0.03,surf
+1329,Doyle,Nunez,65,"Charleston-North Charleston, SC MSA",2018-08-25,ultimate,Activo,4.0,29.16,3.0,1275.28,4.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1330,Tobi,Kinney,48,"Las Vegas-Henderson-Paradise, NV MSA",2018-11-06,ultimate,Activo,8.0,46.85,8.0,1543.43,5.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1331,Lashandra,Ramos,54,"Dallas-Fort Worth-Arlington, TX MSA",2018-02-06,surf,Activo,1.0,0.0,2.0,374.46,6.0,50,15360,500,20,10,0.03,0.03,surf
+1332,Lucas,Saunders,37,"Atlanta-Sandy Springs-Roswell, GA MSA",2018-03-12,surf,Activo,5.0,61.44,3.0,1184.84,0.0,50,15360,500,20,10,0.03,0.03,surf
+1333,Macy,David,57,"Los Angeles-Long Beach-Anaheim, CA MSA",2018-11-24,ultimate,Activo,13.0,75.96000000000001,13.0,4017.75,7.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1334,Donovan,Horton,34,"Seattle-Tacoma-Bellevue, WA MSA",2018-03-08,surf,Activo,1.0,0.0,2.0,546.3,0.0,50,15360,500,20,10,0.03,0.03,surf
+1335,Gail,Coleman,61,"Dallas-Fort Worth-Arlington, TX MSA",2018-06-02,surf,Activo,1.0,8.38,0.0,0.0,2.0,50,15360,500,20,10,0.03,0.03,surf
+1336,Vance,Bradshaw,34,"Portland-Vancouver-Hillsboro, OR-WA MSA",2018-04-04,surf,Activo,2.0,4.48,0.0,0.0,2.0,50,15360,500,20,10,0.03,0.03,surf
+1337,Lucius,Arnold,31,"Riverside-San Bernardino-Ontario, CA MSA",2018-03-11,surf,Activo,8.0,54.5,8.0,2904.39,8.0,50,15360,500,20,10,0.03,0.03,surf
+1338,Janise,Bowman,21,"Minneapolis-St. Paul-Bloomington, MN-WI MSA",2018-08-09,surf,Activo,2.0,5.36,5.0,1896.5499999999997,0.0,50,15360,500,20,10,0.03,0.03,surf
+1339,Mariette,Mclean,27,"Charlotte-Concord-Gastonia, NC-SC MSA",2018-03-03,surf,Activo,1.0,8.32,1.0,620.47,4.0,50,15360,500,20,10,0.03,0.03,surf
+1340,Vanna,Stanton,65,"Dallas-Fort Worth-Arlington, TX MSA",2018-07-05,surf,Activo,4.0,33.59,2.0,1698.18,6.0,50,15360,500,20,10,0.03,0.03,surf
+1341,Kaila,Andrews,28,"Chicago-Naperville-Elgin, IL-IN-WI MSA",2018-06-17,surf,Activo,3.0,14.08,5.0,1394.0900000000001,6.0,50,15360,500,20,10,0.03,0.03,surf
+1342,Eugene,Patton,65,"Indianapolis-Carmel-Anderson, IN MSA",2018-10-21,surf,Activo,15.0,108.65,15.0,2527.82,7.0,50,15360,500,20,10,0.03,0.03,surf
+1343,Teresia,Ewing,43,"Miami-Fort Lauderdale-West Palm Beach, FL MSA",2018-08-23,surf,Activo,3.0,6.050000000000001,4.0,1192.77,4.0,50,15360,500,20,10,0.03,0.03,surf
+1344,Hugo,Daugherty,70,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-12-25,surf,Activo,6.0,39.14,15.0,4054.01,14.0,50,15360,500,20,10,0.03,0.03,surf
+1345,Pasquale,Caldwell,26,"Los Angeles-Long Beach-Anaheim, CA MSA",2018-07-12,surf,Activo,7.0,58.699999999999996,9.0,4190.12,6.0,50,15360,500,20,10,0.03,0.03,surf
+1346,Emmie,Gonzalez,59,"Tucson, AZ MSA",2018-04-26,ultimate,Activo,2.0,5.09,3.0,565.29,2.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1347,Trey,Lynch,65,"Charleston-North Charleston, SC MSA",2018-06-17,ultimate,Activo,0.0,0.0,3.0,445.05999999999995,3.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1348,Carl,Rutledge,60,"Detroit-Warren-Dearborn, MI MSA",2018-10-05,surf,Activo,5.0,68.76,3.0,848.1500000000001,7.0,50,15360,500,20,10,0.03,0.03,surf
+1349,Florentina,Diaz,69,"Boston-Cambridge-Newton, MA-NH MSA",2018-10-01,surf,Activo,0.0,0.0,4.0,1654.9037010255188,3.0,50,15360,500,20,10,0.03,0.03,surf
+1350,Al,Rasmussen,29,"Atlanta-Sandy Springs-Roswell, GA MSA",2018-03-09,surf,Activo,11.0,43.169999999999995,10.0,4530.33,7.0,50,15360,500,20,10,0.03,0.03,surf
+1351,Kyle,Grimes,47,"San Antonio-New Braunfels, TX MSA",2018-09-05,ultimate,Activo,4.0,28.11,7.0,1498.5637010255189,10.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1352,Gavin,Galloway,48,"Seattle-Tacoma-Bellevue, WA MSA",2018-09-08,ultimate,Activo,6.0,36.92,4.0,654.23,4.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1353,Emerson,Whitfield,56,"North Port-Sarasota-Bradenton, FL MSA",2018-03-27,surf,Activo,2.0,11.11,1.0,319.71,0.0,50,15360,500,20,10,0.03,0.03,surf
+1354,Leonel,Dyer,41,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-08-24,ultimate,Activo,3.0,31.980000000000004,3.0,649.0699999999999,5.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1355,Digna,Tyson,57,"Los Angeles-Long Beach-Anaheim, CA MSA",2018-10-07,surf,Activo,5.0,12.67,4.0,1624.62,5.0,50,15360,500,20,10,0.03,0.03,surf
+1356,Hae,Ryan,46,"Milwaukee-Waukesha, WI MSA",2018-05-16,surf,Activo,6.0,46.34,3.0,1071.04,6.0,50,15360,500,20,10,0.03,0.03,surf
+1357,Ria,Beach,61,"Baton Rouge, LA MSA",2018-05-30,surf,Activo,0.0,0.0,0.0,0.0,0.0,50,15360,500,20,10,0.03,0.03,surf
+1358,Vaughn,Maldonado,20,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-04-26,surf,2018-10-22,0.0,0.0,0.0,0.0,0.0,50,15360,500,20,10,0.03,0.03,surf
+1359,Sherley,Norris,33,"Colorado Springs, CO MSA",2018-02-08,surf,Activo,2.0,10.94,1.0,0.0,0.0,50,15360,500,20,10,0.03,0.03,surf
+1360,Arturo,Mullins,75,"Charlotte-Concord-Gastonia, NC-SC MSA",2018-09-20,surf,Activo,15.0,97.21,15.0,7040.46,0.0,50,15360,500,20,10,0.03,0.03,surf
+1361,Jacelyn,Hoffman,45,"Birmingham-Hoover, AL MSA",2018-04-14,surf,Activo,5.0,25.21,4.0,1680.56,4.0,50,15360,500,20,10,0.03,0.03,surf
+1362,Kenyetta,Mcknight,65,"Denver-Aurora-Lakewood, CO MSA",2018-01-18,surf,Activo,1.0,16.18,2.0,453.66,1.0,50,15360,500,20,10,0.03,0.03,surf
+1363,Sandee,Lott,33,"Seattle-Tacoma-Bellevue, WA MSA",2018-01-05,ultimate,2018-08-16,7.0,31.61,3.0,1414.61,1.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1364,Clarine,Bonner,75,"San Diego-Chula Vista-Carlsbad, CA MSA",2018-08-09,surf,Activo,4.0,18.39,0.0,0.0,2.0,50,15360,500,20,10,0.03,0.03,surf
+1365,Milford,Rush,19,"Grand Rapids-Kentwood, MI MSA",2018-02-09,surf,Activo,2.0,18.65,2.0,1463.85,3.0,50,15360,500,20,10,0.03,0.03,surf
+1366,Rod,Huff,62,"Cincinnati, OH-KY-IN MSA",2018-07-30,surf,Activo,1.0,5.34,3.0,1314.54,3.0,50,15360,500,20,10,0.03,0.03,surf
+1367,Minh,Fischer,18,"Baltimore-Columbia-Towson, MD MSA",2018-07-23,surf,Activo,2.0,12.280000000000001,1.0,812.63,0.0,50,15360,500,20,10,0.03,0.03,surf
+1368,Enola,Ray,60,"Pittsburgh, PA MSA",2018-05-20,ultimate,Activo,1.0,8.28,2.0,1343.47,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1369,Bernard,Mckee,69,"Milwaukee-Waukesha, WI MSA",2018-10-06,surf,Activo,12.0,70.92,9.0,4427.5,10.0,50,15360,500,20,10,0.03,0.03,surf
+1370,Nenita,Vasquez,49,"San Diego-Chula Vista-Carlsbad, CA MSA",2018-09-12,ultimate,Activo,2.0,13.15,1.0,534.63,3.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1371,Roderick,Slater,27,"Portland-Vancouver-Hillsboro, OR-WA MSA",2018-10-27,surf,Activo,10.0,43.12,9.0,1956.13,5.0,50,15360,500,20,10,0.03,0.03,surf
+1372,Patria,Kim,26,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-10-08,surf,Activo,15.0,81.1,15.0,2911.56,15.0,50,15360,500,20,10,0.03,0.03,surf
+1373,Lindsey,Dickerson,21,"Minneapolis-St. Paul-Bloomington, MN-WI MSA",2018-08-30,ultimate,Activo,3.0,31.21,3.0,1471.7,3.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1374,Ching,Watts,55,"Louisville/Jefferson County, KY-IN MSA",2018-02-14,surf,Activo,3.0,3.59,2.0,956.0400000000001,2.0,50,15360,500,20,10,0.03,0.03,surf
+1375,Andy,Holden,69,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2018-12-01,surf,Activo,15.0,130.67,15.0,5206.91,15.0,50,15360,500,20,10,0.03,0.03,surf
+1376,Mika,Williams,58,"Columbia, SC MSA",2018-04-16,ultimate,Activo,6.0,28.495927033796782,8.0,1832.38,7.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1377,Vallie,Conway,18,"Rochester, NY MSA",2018-03-27,surf,Activo,2.0,15.35,2.0,844.85,1.0,50,15360,500,20,10,0.03,0.03,surf
+1378,Mckinley,Clayton,22,"Denver-Aurora-Lakewood, CO MSA",2018-12-17,surf,Activo,0.0,0.0,0.0,0.0,0.0,50,15360,500,20,10,0.03,0.03,surf
+1379,Jarrett,Spencer,34,"Grand Rapids-Kentwood, MI MSA",2018-10-18,surf,Activo,13.0,94.42,14.0,7405.33,13.0,50,15360,500,20,10,0.03,0.03,surf
+1380,Lajuana,Kelley,35,"San Jose-Sunnyvale-Santa Clara, CA MSA",2018-09-04,ultimate,Activo,3.0,25.5,3.0,825.9300000000001,5.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1381,German,Burris,44,"Austin-Round Rock-Georgetown, TX MSA",2018-08-30,surf,Activo,4.0,11.71,6.0,1815.52,5.0,50,15360,500,20,10,0.03,0.03,surf
+1382,Luci,Kidd,49,"San Diego-Chula Vista-Carlsbad, CA MSA",2018-06-22,ultimate,Activo,3.0,37.12,0.0,0.0,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1383,Margarito,Mccoy,52,"Tampa-St. Petersburg-Clearwater, FL MSA",2018-10-10,ultimate,Activo,3.0,11.98,6.0,1680.21,9.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1384,Dominique,Good,36,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2018-06-09,ultimate,Activo,2.0,13.84,1.0,329.5,4.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1385,Nohemi,Erickson,52,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-01-19,surf,Activo,1.0,5.94,3.0,1727.79,4.0,50,15360,500,20,10,0.03,0.03,surf
+1386,Jeni,Gilbert,30,"Seattle-Tacoma-Bellevue, WA MSA",2018-04-11,surf,Activo,7.0,33.83,13.0,2724.94,10.0,50,15360,500,20,10,0.03,0.03,surf
+1387,Raymonde,Lowe,28,"Bridgeport-Stamford-Norwalk, CT MSA",2018-05-25,surf,Activo,3.0,5.62,1.0,0.0,3.0,50,15360,500,20,10,0.03,0.03,surf
+1388,Thu,Noel,75,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-03-28,ultimate,Activo,15.0,95.54,15.0,3476.25,15.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1389,Earleen,Glass,18,"Miami-Fort Lauderdale-West Palm Beach, FL MSA",2018-05-06,ultimate,Activo,1.0,4.24,3.0,1040.0900000000001,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1390,Deloras,Strickland,61,"Chicago-Naperville-Elgin, IL-IN-WI MSA",2018-03-11,ultimate,Activo,3.0,23.89,0.0,0.0,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1391,Errol,Cooke,52,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-09-11,ultimate,Activo,0.0,0.0,2.0,1030.73,2.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1392,Gale,Mcfadden,34,"Seattle-Tacoma-Bellevue, WA MSA",2018-05-24,surf,Activo,2.0,6.46,2.0,912.3499999999999,3.0,50,15360,500,20,10,0.03,0.03,surf
+1393,Wilfredo,Rosa,44,"Knoxville, TN MSA",2018-10-29,surf,Activo,7.0,25.59,6.0,2905.2,8.0,50,15360,500,20,10,0.03,0.03,surf
+1394,Alejandro,Carver,28,"Stockton, CA MSA",2018-01-16,surf,Activo,5.0,6.35,6.0,3258.5699999999997,2.0,50,15360,500,20,10,0.03,0.03,surf
+1395,Leonard,Wooten,24,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-06-19,ultimate,Activo,15.0,124.89,15.0,3333.0699999999997,15.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1396,Ardelia,Benton,65,"Salt Lake City, UT MSA",2018-06-01,surf,Activo,0.0,0.0,0.0,0.0,0.0,50,15360,500,20,10,0.03,0.03,surf
+1397,Willow,Steele,70,"Oklahoma City, OK MSA",2018-06-01,surf,Activo,3.0,20.85,5.0,1374.75,0.0,50,15360,500,20,10,0.03,0.03,surf
+1398,German,Thompson,30,"Denver-Aurora-Lakewood, CO MSA",2018-10-22,surf,Activo,8.0,58.73,8.0,3498.2799999999997,4.0,50,15360,500,20,10,0.03,0.03,surf
+1399,Leonila,Baird,24,"San Antonio-New Braunfels, TX MSA",2018-06-06,surf,Activo,3.0,1.27,2.0,124.45,3.0,50,15360,500,20,10,0.03,0.03,surf
+1400,Kenton,Hickman,72,"Riverside-San Bernardino-Ontario, CA MSA",2018-03-08,surf,Activo,1.0,6.53,3.0,728.0,0.0,50,15360,500,20,10,0.03,0.03,surf
+1401,Charmain,Bryant,67,"Richmond, VA MSA",2018-08-24,ultimate,Activo,5.0,23.1,6.0,1089.18,4.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1402,Jesus,Berry,25,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-06-11,surf,2018-12-26,1.0,8.76,4.0,1873.16,0.0,50,15360,500,20,10,0.03,0.03,surf
+1403,Jae,Gardner,27,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",2018-02-06,ultimate,Activo,3.0,34.64,2.0,1056.55,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1404,Paulita,Conley,33,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-04-16,surf,Activo,2.0,13.690000000000001,2.0,1082.6737010255188,5.0,50,15360,500,20,10,0.03,0.03,surf
+1405,Shella,Hunter,34,"Indianapolis-Carmel-Anderson, IN MSA",2018-06-22,ultimate,Activo,2.0,2.31,4.0,174.45999999999998,1.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1406,Noble,Jefferson,54,"San Diego-Chula Vista-Carlsbad, CA MSA",2018-03-04,surf,Activo,3.0,19.84,2.0,0.0,0.0,50,15360,500,20,10,0.03,0.03,surf
+1407,Tristan,Daugherty,27,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-11-29,ultimate,Activo,15.0,52.15,15.0,4236.45,14.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1408,Alaine,Robertson,40,"Baltimore-Columbia-Towson, MD MSA",2018-01-11,surf,Activo,1.0,7.59,1.0,73.91,2.0,50,15360,500,20,10,0.03,0.03,surf
+1409,Elvis,Vargas,38,"Charlotte-Concord-Gastonia, NC-SC MSA",2018-10-04,ultimate,Activo,2.0,9.45,7.0,2985.82,3.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1410,Wendell,Lloyd,46,"Los Angeles-Long Beach-Anaheim, CA MSA",2018-10-06,surf,Activo,8.0,52.32592703379678,6.0,1722.82,4.0,50,15360,500,20,10,0.03,0.03,surf
+1411,Man,Fleming,64,"Rochester, NY MSA",2018-08-10,surf,Activo,6.0,65.03999999999999,4.0,82.59,0.0,50,15360,500,20,10,0.03,0.03,surf
+1412,Cortez,Reese,61,"Detroit-Warren-Dearborn, MI MSA",2018-04-08,ultimate,Activo,4.0,22.74,3.0,2154.0,2.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1413,Andre,Hensley,38,"Bakersfield, CA MSA",2018-07-12,surf,Activo,15.0,134.92000000000002,15.0,5786.68,15.0,50,15360,500,20,10,0.03,0.03,surf
+1414,Georgianne,Herring,30,"Urban Honolulu, HI MSA",2018-03-03,surf,2018-09-01,4.0,25.2,2.0,321.28,3.0,50,15360,500,20,10,0.03,0.03,surf
+1415,Rosette,Mendez,56,"Boston-Cambridge-Newton, MA-NH MSA",2018-02-27,surf,Activo,6.0,53.68,3.0,871.49,0.0,50,15360,500,20,10,0.03,0.03,surf
+1416,Deja,Moss,25,"Minneapolis-St. Paul-Bloomington, MN-WI MSA",2018-10-03,surf,2018-11-21,6.0,48.24,6.0,1751.29,8.0,50,15360,500,20,10,0.03,0.03,surf
+1417,Jorge,Madden,51,"Minneapolis-St. Paul-Bloomington, MN-WI MSA",2018-06-22,ultimate,Activo,0.0,0.0,2.0,1363.1599999999999,2.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1418,Hal,Barnes,40,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-01-19,surf,Activo,4.0,49.49,6.0,3588.11,0.0,50,15360,500,20,10,0.03,0.03,surf
+1419,Bryon,Gordon,45,"Phoenix-Mesa-Chandler, AZ MSA",2018-03-29,surf,Activo,11.0,95.39,11.0,4116.87,9.0,50,15360,500,20,10,0.03,0.03,surf
+1420,Season,Hardy,27,"San Francisco-Oakland-Berkeley, CA MSA",2018-02-22,ultimate,Activo,1.0,7.58,2.0,899.77,3.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1421,Zane,Hobbs,26,"Phoenix-Mesa-Chandler, AZ MSA",2018-05-18,surf,Activo,4.0,13.94,12.0,4717.5,5.0,50,15360,500,20,10,0.03,0.03,surf
+1422,Georgianne,Huff,41,"Los Angeles-Long Beach-Anaheim, CA MSA",2018-04-03,ultimate,Activo,4.0,21.519999999999996,5.0,935.51,9.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1423,Malcom,Neal,61,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2018-10-16,surf,Activo,0.0,0.0,0.0,0.0,0.0,50,15360,500,20,10,0.03,0.03,surf
+1424,Kasandra,Keith,51,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",2018-07-24,ultimate,Activo,15.0,117.88000000000001,14.0,3545.48,13.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1425,Latrisha,Larsen,19,"Las Vegas-Henderson-Paradise, NV MSA",2018-09-20,surf,Activo,5.0,25.130000000000003,6.0,1637.94,8.0,50,15360,500,20,10,0.03,0.03,surf
+1426,Lamont,Conner,44,"San Francisco-Oakland-Berkeley, CA MSA",2018-07-09,ultimate,Activo,12.0,70.58,11.0,4411.75,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1427,Zofia,Brock,64,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",2018-01-26,ultimate,Activo,1.0,1.47,1.0,1022.12,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1428,Asuncion,Conrad,66,"Phoenix-Mesa-Chandler, AZ MSA",2018-10-23,surf,Activo,5.0,37.94,7.0,2004.32,9.0,50,15360,500,20,10,0.03,0.03,surf
+1429,Arianna,Rowe,36,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-12-22,surf,Activo,15.0,86.38000000000001,11.0,6770.01,15.0,50,15360,500,20,10,0.03,0.03,surf
+1430,Myung,Pugh,63,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-12-07,surf,Activo,15.0,141.18,15.0,6373.26,15.0,50,15360,500,20,10,0.03,0.03,surf
+1431,Napoleon,Burt,74,"Sacramento–Roseville–Folsom, CA MSA",2018-01-28,surf,Activo,13.0,74.03,9.0,2486.99,7.0,50,15360,500,20,10,0.03,0.03,surf
+1432,Azucena,Goodwin,59,"Salt Lake City, UT MSA",2018-10-03,ultimate,Activo,2.0,9.53,6.0,1715.06,3.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1433,Lyndon,Morrison,29,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2018-08-29,ultimate,Activo,5.0,60.05,6.0,3803.8599999999997,6.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1434,Kai,Barr,18,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-03-06,surf,Activo,0.0,0.0,0.0,0.0,2.0,50,15360,500,20,10,0.03,0.03,surf
+1435,Darnell,Powell,23,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",2018-07-24,ultimate,Activo,5.0,19.96592703379678,1.0,694.66,4.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1436,Jennine,Kinney,69,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",2018-08-26,ultimate,Activo,7.0,66.27,5.0,1886.48,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1437,Louis,Neal,42,"Dallas-Fort Worth-Arlington, TX MSA",2018-11-12,surf,Activo,10.0,15.83,8.0,2222.69,0.0,50,15360,500,20,10,0.03,0.03,surf
+1438,Harvey,Brooks,36,"Orlando-Kissimmee-Sanford, FL MSA",2018-06-15,surf,Activo,3.0,32.019999999999996,2.0,276.08,3.0,50,15360,500,20,10,0.03,0.03,surf
+1439,Moses,Cabrera,28,"Riverside-San Bernardino-Ontario, CA MSA",2018-01-04,surf,Activo,2.0,13.120000000000001,2.0,178.1,4.0,50,15360,500,20,10,0.03,0.03,surf
+1440,France,Barrett,49,"Nashville-Davidson–Murfreesboro–Franklin, TN MSA",2018-04-16,surf,Activo,3.0,15.89,1.0,512.27,2.0,50,15360,500,20,10,0.03,0.03,surf
+1441,Piedad,Myers,23,"Atlanta-Sandy Springs-Roswell, GA MSA",2018-03-08,ultimate,2018-08-19,10.0,93.62,10.0,3339.7,11.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1442,Terrell,Caldwell,66,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-05-25,ultimate,Activo,15.0,96.7,15.0,4192.33,15.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1443,Genaro,Quinn,58,"Atlanta-Sandy Springs-Roswell, GA MSA",2018-03-11,surf,Activo,13.0,96.32,8.0,2416.45,13.0,50,15360,500,20,10,0.03,0.03,surf
+1444,Glinda,Dickerson,70,"New Haven-Milford, CT MSA",2018-06-20,surf,Activo,5.0,19.93,2.0,38.45,3.0,50,15360,500,20,10,0.03,0.03,surf
+1445,Elodia,Donovan,71,"Dallas-Fort Worth-Arlington, TX MSA",2018-01-27,ultimate,Activo,0.0,0.0,0.0,0.0,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1446,Pasquale,Ball,52,"Austin-Round Rock-Georgetown, TX MSA",2018-09-10,surf,Activo,6.0,63.379999999999995,4.0,2274.12,6.0,50,15360,500,20,10,0.03,0.03,surf
+1447,Ramon,Hester,62,"Orlando-Kissimmee-Sanford, FL MSA",2018-05-01,surf,Activo,7.0,45.55,6.0,4231.17,7.0,50,15360,500,20,10,0.03,0.03,surf
+1448,Elayne,Foley,33,"Urban Honolulu, HI MSA",2018-10-17,surf,Activo,3.0,31.92,8.0,3418.05,5.0,50,15360,500,20,10,0.03,0.03,surf
+1449,Boyd,Kelley,39,"Seattle-Tacoma-Bellevue, WA MSA",2018-10-04,surf,Activo,5.0,17.5,3.0,2178.26,0.0,50,15360,500,20,10,0.03,0.03,surf
+1450,Errol,Marquez,67,"Bakersfield, CA MSA",2018-06-16,ultimate,Activo,15.0,87.46000000000001,15.0,4767.68,15.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1451,Lenard,Harding,53,"Charlotte-Concord-Gastonia, NC-SC MSA",2018-02-15,ultimate,2018-12-10,2.0,4.96,3.0,1349.24,1.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1452,Miguel,Sparks,32,"Tucson, AZ MSA",2018-12-29,surf,Activo,3.0,34.58,1.0,92.68,4.0,50,15360,500,20,10,0.03,0.03,surf
+1453,Robt,Tyler,51,"Los Angeles-Long Beach-Anaheim, CA MSA",2018-07-09,ultimate,Activo,7.0,75.43,8.0,2986.4300000000003,10.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1454,Kymberly,Cohen,56,"San Antonio-New Braunfels, TX MSA",2018-05-30,ultimate,Activo,5.0,27.9,2.0,1235.56,2.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1455,Jude,Fischer,20,"Denver-Aurora-Lakewood, CO MSA",2018-08-13,surf,Activo,2.0,4.54,1.0,626.94,0.0,50,15360,500,20,10,0.03,0.03,surf
+1456,Seymour,Olsen,66,"Minneapolis-St. Paul-Bloomington, MN-WI MSA",2018-06-02,ultimate,Activo,0.0,0.0,2.0,0.0,3.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1457,Janean,Lynch,47,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-02-17,surf,Activo,15.0,79.36,15.0,3274.5499999999997,4.0,50,15360,500,20,10,0.03,0.03,surf
+1458,Joella,Munoz,32,"Detroit-Warren-Dearborn, MI MSA",2018-07-24,ultimate,Activo,4.0,33.31,2.0,615.68,1.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1459,Santos,Head,40,"San Francisco-Oakland-Berkeley, CA MSA",2018-04-27,ultimate,Activo,8.0,63.8,13.0,6623.139999999999,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1460,Winford,Underwood,46,"Fresno, CA MSA",2018-05-28,ultimate,Activo,0.0,0.0,2.0,691.87,2.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1461,Rupert,Santana,54,"Pittsburgh, PA MSA",2018-09-14,surf,Activo,4.0,2.67,5.0,1739.33,0.0,50,15360,500,20,10,0.03,0.03,surf
+1462,Lesley,Workman,20,"Las Vegas-Henderson-Paradise, NV MSA",2018-09-05,ultimate,Activo,5.0,35.11,6.0,2460.7799999999997,8.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1463,Dinorah,Simmons,30,"Atlanta-Sandy Springs-Roswell, GA MSA",2018-11-27,ultimate,Activo,0.0,0.0,0.0,0.0,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1464,Burt,Burke,70,"Providence-Warwick, RI-MA MSA",2018-11-07,surf,Activo,6.0,31.35,11.0,5195.94,6.0,50,15360,500,20,10,0.03,0.03,surf
+1465,Arianna,Morrison,73,"Pittsburgh, PA MSA",2018-06-22,ultimate,Activo,6.0,29.98,1.0,587.08,3.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1466,Alphonse,Harmon,56,"Los Angeles-Long Beach-Anaheim, CA MSA",2018-01-26,surf,2018-09-17,0.0,0.0,0.0,0.0,3.0,50,15360,500,20,10,0.03,0.03,surf
+1467,Nickolas,Deleon,64,"Atlanta-Sandy Springs-Roswell, GA MSA",2018-01-31,ultimate,2018-11-18,3.0,26.2,2.0,442.08000000000004,2.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1468,Johana,Kim,55,"Denver-Aurora-Lakewood, CO MSA",2018-09-08,surf,Activo,5.0,48.35,3.0,676.2499999999999,2.0,50,15360,500,20,10,0.03,0.03,surf
+1469,Rory,Nixon,75,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-06-04,surf,Activo,14.0,118.00999999999999,13.0,3028.26,11.0,50,15360,500,20,10,0.03,0.03,surf
+1470,Gerald,Reese,45,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",2018-04-21,surf,Activo,2.0,28.490000000000002,0.0,0.0,4.0,50,15360,500,20,10,0.03,0.03,surf
+1471,Britni,Mitchell,59,"Richmond, VA MSA",2018-10-13,surf,Activo,0.0,0.0,0.0,0.0,0.0,50,15360,500,20,10,0.03,0.03,surf
+1472,Maximo,Mendoza,51,"San Francisco-Oakland-Berkeley, CA MSA",2018-04-10,surf,Activo,0.0,0.0,0.0,0.0,0.0,50,15360,500,20,10,0.03,0.03,surf
+1473,Kirk,Velez,61,"Louisville/Jefferson County, KY-IN MSA",2018-12-31,surf,Activo,0.0,0.0,0.0,0.0,0.0,50,15360,500,20,10,0.03,0.03,surf
+1474,Randee,Carpenter,26,"Bakersfield, CA MSA",2018-08-26,surf,Activo,2.0,5.61,3.0,630.83,4.0,50,15360,500,20,10,0.03,0.03,surf
+1475,Arlen,Sutton,66,"Dallas-Fort Worth-Arlington, TX MSA",2018-05-28,ultimate,Activo,2.0,7.2299999999999995,0.0,0.0,3.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1476,Tammara,Dorsey,24,"Los Angeles-Long Beach-Anaheim, CA MSA",2018-06-10,ultimate,Activo,4.0,37.93,2.0,951.6437010255187,3.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1477,Magaly,Rivas,52,"Riverside-San Bernardino-Ontario, CA MSA",2018-08-24,ultimate,Activo,5.0,34.6,4.0,1311.79,2.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1478,Elane,David,51,"Portland-Vancouver-Hillsboro, OR-WA MSA",2018-06-28,ultimate,Activo,3.0,21.869999999999997,2.0,934.79,5.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1479,Keesha,Burnett,44,"Riverside-San Bernardino-Ontario, CA MSA",2018-11-12,surf,Activo,10.0,52.34,8.0,3998.71,0.0,50,15360,500,20,10,0.03,0.03,surf
+1480,Jasper,Buchanan,46,"St. Louis, MO-IL MSA",2018-12-13,surf,Activo,15.0,138.64,15.0,6026.16,15.0,50,15360,500,20,10,0.03,0.03,surf
+1481,Roni,Frye,32,"Urban Honolulu, HI MSA",2018-12-27,surf,Activo,6.0,33.19,4.0,1265.78,3.0,50,15360,500,20,10,0.03,0.03,surf
+1482,Armand,Glenn,70,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-01-01,ultimate,Activo,1.0,3.29,0.0,0.0,1.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1483,Miguel,Farrell,35,"Chicago-Naperville-Elgin, IL-IN-WI MSA",2018-04-25,surf,Activo,0.0,0.0,0.0,0.0,0.0,50,15360,500,20,10,0.03,0.03,surf
+1484,Delpha,Baldwin,46,"Dallas-Fort Worth-Arlington, TX MSA",2018-11-29,surf,Activo,13.0,138.57,15.0,7061.91,15.0,50,15360,500,20,10,0.03,0.03,surf
+1485,Damion,Woodard,67,"Nashville-Davidson–Murfreesboro–Franklin, TN MSA",2018-08-21,surf,Activo,15.0,72.94,15.0,5307.45,15.0,50,15360,500,20,10,0.03,0.03,surf
+1486,Sang,Solis,29,"Orlando-Kissimmee-Sanford, FL MSA",2018-12-05,surf,Activo,15.0,104.16,15.0,3692.61,10.0,50,15360,500,20,10,0.03,0.03,surf
+1487,Elton,Simpson,18,"Cape Coral-Fort Myers, FL MSA",2018-08-16,ultimate,Activo,15.0,104.43,15.0,3493.91,15.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1488,Shirley,Jones,29,"Baton Rouge, LA MSA",2018-05-15,surf,Activo,4.0,13.129999999999999,1.0,436.21,0.0,50,15360,500,20,10,0.03,0.03,surf
+1489,Londa,Jenkins,72,"Detroit-Warren-Dearborn, MI MSA",2018-05-24,surf,Activo,3.0,33.58,6.0,1622.34,7.0,50,15360,500,20,10,0.03,0.03,surf
+1490,Shane,Cortez,42,"Sacramento–Roseville–Folsom, CA MSA",2018-01-20,ultimate,Activo,2.0,27.62,3.0,746.74,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1491,Terina,Jensen,22,"Grand Rapids-Kentwood, MI MSA",2018-04-27,surf,2018-09-18,0.0,0.0,2.0,1199.13,1.0,50,15360,500,20,10,0.03,0.03,surf
+1492,Elvie,Jones,63,"Portland-Vancouver-Hillsboro, OR-WA MSA",2018-03-07,surf,Activo,4.0,8.9,6.0,1183.85,5.0,50,15360,500,20,10,0.03,0.03,surf
+1493,Cicely,Wynn,18,"Boston-Cambridge-Newton, MA-NH MSA",2018-03-06,ultimate,Activo,2.0,16.74,3.0,592.1,0.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1494,Preston,Downs,70,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-04-19,surf,Activo,1.0,12.14,1.0,139.07,2.0,50,15360,500,20,10,0.03,0.03,surf
+1495,Fidel,Sharpe,67,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-09-04,surf,Activo,6.0,34.660000000000004,4.0,1729.76,0.0,50,15360,500,20,10,0.03,0.03,surf
+1496,Ariel,Shepherd,49,"New Orleans-Metairie, LA MSA",2018-02-20,surf,Activo,2.0,12.71,3.0,1341.12,5.0,50,15360,500,20,10,0.03,0.03,surf
+1497,Donte,Barrera,49,"Los Angeles-Long Beach-Anaheim, CA MSA",2018-12-10,ultimate,Activo,15.0,76.57,15.0,4584.333701025518,15.0,1000,30720,3000,70,7,0.01,0.01,ultimate
+1498,Scot,Williamson,51,"New York-Newark-Jersey City, NY-NJ-PA MSA",2018-02-04,surf,Activo,3.0,30.16,1.0,244.21,0.0,50,15360,500,20,10,0.03,0.03,surf
+1499,Shena,Dickson,37,"Orlando-Kissimmee-Sanford, FL MSA",2018-05-06,surf,Activo,2.0,5.35,4.0,723.5699999999999,0.0,50,15360,500,20,10,0.03,0.03,surf
